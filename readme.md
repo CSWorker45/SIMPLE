@@ -13,7 +13,7 @@
 - numba 0.54.1
 
 Compile C++ temporal sampler first with the following command
-> python setup.py build_ext --inplace
+> python SIMPLE/setup.py build_ext --inplace
 
 ## Datasets
 We use four datasets in the paper: LASTFM, WIKITALK, STACKOVERFLOW and GDELT.
